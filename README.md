@@ -1,2 +1,3 @@
 # hello-world
-GitHub test
+
+Testing some files to see if GitHub will be a good repository
